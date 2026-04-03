@@ -1,1 +1,1 @@
-function greet() { return 'Hello'/home/bellingham/Desktop/cpp/tta.cpp' }
+function greet() { return 'Hi there'/home/bellingham/Desktop/cpp/tta.cpp' }
